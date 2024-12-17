@@ -90,18 +90,23 @@ class ArxivFeedProvider:
 
         # Get all items in this feed
         feed_items = {}
-        for i, item in enumerate(root.findall("item", ns)):
+        for i, item in enumerate(root.findall(".//item")):
             # print(">>", item.tag, item.attrib)
             # for child in item:
             #     print("    ", child.tag, child.text)
-            title = item.find("title", ns).text
-            link = item.find("link", ns).text
-            desc = item.find("description", ns).text.replace("\n", " ")
-            creators = item.find("dc:creator", ns).text
+            # title = item.find("title", ns).text
+            # link = item.find("link", ns).text
+            title = item.find("title").text
+            link = item.find("link").text
+            desc = item.find("description").text.strip()
+            creators = item.find("{http://purl.org/dc/elements/1.1/}creator").text
+            # desc = item.find("description", ns).text.replace("\n", " ")
+            # creators = item.find("dc:creator", ns).text
 
             # Clean up
             title = re.sub("\.\s\([^)]+\)", "", title)
-            desc = desc[3:-6]
+            desc = re.search(r"Abstract:\s*(.+)", desc, re.DOTALL).group(1).strip()
+            # desc = desc[13:-6]
             creators = re.sub("<.+?>", "", creators).split(", ")
             id = link.split("/")[-1]  # archiv ID
 
@@ -122,6 +127,7 @@ class ArxivFeedProvider:
 
     def get_feed_summary(self, force_refresh=False):
 
+        # print("Getting feed summary", force_refresh)
         feed_files = self._download_feeds(force_refresh)
         feeditems = {}
 

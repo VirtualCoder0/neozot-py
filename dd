@@ -1,0 +1,317 @@
+[33mcommit 1210ce2ba7e377293f7f351fe7dcab539f6a2a85[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Tue Nov 1 10:16:53 2022 +0200
+
+    explore bug fix
+
+[33mcommit ea470fc5ba2bfd8f863e4a74b56dc8bd5a739947[m[33m ([m[1;33mtag: v0.0.5[m[33m)[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 30 06:53:16 2022 +0200
+
+    Packe ready for release(d)
+
+[33mcommit 5ee90598760b150ee133fa11c2092c71224656d6[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 30 05:05:24 2022 +0200
+
+    Packaging
+
+[33mcommit 9e7268f96579c6f07d5a43e038b374ee152bcbe7[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 30 02:02:20 2022 +0300
+
+    Bug fix - first run
+
+[33mcommit 5d0640783e265055b86df60d361ae3ed04e94247[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 30 01:42:05 2022 +0300
+
+    Persistent settings
+
+[33mcommit 13edfd5ac104bce5c82481c3758a97e0065cb7b1[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Fri Oct 28 06:35:32 2022 +0300
+
+    db write
+
+[33mcommit 98878c117bffe0b7c50b21c1ce5be21f04ad1581[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 23 22:55:32 2022 +0300
+
+    SS Embeddings initial
+
+[33mcommit c3394cc03fc51e1e43758064024776a57dfb57b1[m[33m ([m[1;33mtag: v0.0.2[m[33m)[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 23 13:07:26 2022 +0300
+
+    Documentation updates
+
+[33mcommit 02cb120cc72c2c4761b52ebe2d1643b40260c9cd[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 23 12:50:34 2022 +0300
+
+    Added explore
+
+[33mcommit 4aa0f2bd461da7cbddbca2d63a973900625abb16[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 23 12:50:23 2022 +0300
+
+    disable pairs
+
+[33mcommit c9256f45fc055ad565502bb2104cf8485bbce900[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 22 19:10:28 2022 +0300
+
+    Alternative scoring
+
+[33mcommit bea1d50b5d7cbfcb3ffb29513fc1ac1875a7f21f[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 22 18:04:18 2022 +0300
+
+    minro updates
+
+[33mcommit 3c19a76b290b6e67712e19d6f948c78f9918665b[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 22 17:19:50 2022 +0300
+
+    mac path fix
+
+[33mcommit ee96a5c384aeffc7d79a11ebc989501eda54f5cd[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 22 15:14:07 2022 +0300
+
+    default doamin
+
+[33mcommit 6ddcc1418007d3c5724d98e7c4ab413c0242baeb[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 22 14:02:36 2022 +0300
+
+    Change settings from UI
+
+[33mcommit 5fb0442f5b9878a2e216875feda154becdeea83e[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 22 10:21:05 2022 +0300
+
+    sidebar
+
+[33mcommit c256803d1da3f4d77189b72c2d8a4ea0b6e822b6[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 22 10:20:58 2022 +0300
+
+    Load library on UI
+
+[33mcommit b940e48e44ce52b7a52150a99d2b3ca28bbc37e9[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 22 09:35:12 2022 +0300
+
+    Better structuring
+
+[33mcommit 69f155d0834592457b34f71774a7f3a0be268696[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 22 09:34:55 2022 +0300
+
+    RO mode db connection
+
+[33mcommit 71cac9c7c4f72cb723a374c710a05f4961186659[m[33m ([m[1;33mtag: v0.0.1[m[33m)[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Thu Oct 20 18:58:44 2022 +0300
+
+    README
+
+[33mcommit 6c2bab26542d27ce973f878f125ed66cbb84e9b4[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Thu Oct 20 18:58:24 2022 +0300
+
+    pack
+
+[33mcommit 0d1baf0732626073d32f06a8fed80b077f1c8c43[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Thu Oct 20 18:23:40 2022 +0300
+
+    Display authors
+
+[33mcommit 05ee17dad9cc1fe381582dcbe75583bfdd435403[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Thu Oct 20 17:58:54 2022 +0300
+
+    Themed cards
+
+[33mcommit 12e11121b15369584688e84fc80fe26d2d705ab8[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Thu Oct 20 17:00:58 2022 +0300
+
+    Make cs the domain
+
+[33mcommit 59c9790f00e78c2c23e53f4bd36bd4a8cbc3542a[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Thu Oct 20 17:00:46 2022 +0300
+
+    Double listing bug
+
+[33mcommit e5c0a451e0f588a59f50801fa295dbebe03904c1[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Wed Oct 19 06:23:25 2022 +0300
+
+    header
+
+[33mcommit ea81e206dbb4cca81a4156db9133e6e86d50559b[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Wed Oct 19 05:46:13 2022 +0300
+
+    sort by score
+
+[33mcommit 446d66e102fdf4e16b1bd402ac46dc9975c2d19c[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Wed Oct 19 05:39:30 2022 +0300
+
+    UI animations
+
+[33mcommit 6f22d740ddb2e047a68cfc9056856ad8d573b3f5[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Tue Oct 18 17:35:31 2022 +0300
+
+    Theming updates
+
+[33mcommit ad2ce7139354f5108c68a9811fe8695fc1268806[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Tue Oct 18 06:55:13 2022 +0300
+
+    cards
+
+[33mcommit e693d58dc24f6930241675fcbd54c532e3434936[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Tue Oct 18 05:27:11 2022 +0300
+
+    open links in new window
+
+[33mcommit b2dafb86467ae969b991ab7f81d7a5cf1ec9d6f8[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Tue Oct 18 05:08:41 2022 +0300
+
+    Eel UI - initial
+
+[33mcommit 703c2d45ab2faba83b600af943c2a9f310f02f8e[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Mon Oct 17 19:21:41 2022 +0300
+
+    HTML output
+
+[33mcommit 574521f0e90eb63b4796da54b6e934610807afb7[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Mon Oct 17 09:01:12 2022 +0300
+
+    backup
+
+[33mcommit 9489f6f1a918adb785985373d146d1de3e2f5fad[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 15 08:14:23 2022 +0300
+
+    black 80
+
+[33mcommit b9124438a9d2efc3479a8d091112d020f26a6e04[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 15 08:02:11 2022 +0300
+
+    logging
+
+[33mcommit 85d82732c56e7ff9677c7f8f200f2338f95a97bc[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 15 07:32:34 2022 +0300
+
+    black formatting
+
+[33mcommit adc8548b548de9955205c2ab9f0499857b34fd5e[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sat Oct 15 07:25:36 2022 +0300
+
+    CLI options
+
+[33mcommit 3240f2a4fec5a032704b08562ee18d3c586c9786[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Thu Oct 13 07:21:01 2022 +0300
+
+    Analysis
+
+[33mcommit d870770bac621acbeb37f2b22f27f1287ecb1c8f[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Mon Oct 10 07:03:48 2022 +0300
+
+    download arxiv feed
+
+[33mcommit 2a80d4c322e4628146651d2f79996cb72d14b94e[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Thu Oct 6 05:40:06 2022 +0300
+
+    Similarity search
+
+[33mcommit 422b93170a213c127ab1afaa067f55e0231f29c7[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Wed Oct 5 09:00:35 2022 +0300
+
+    feed dict
+
+[33mcommit 4f7698411dcdf48db7fe8381dd4a8c6a50abdd5a[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Tue Oct 4 06:57:29 2022 +0300
+
+    feedparser initial
+
+[33mcommit 34a80b082bab2228d641d807f3bd8b981aad251c[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Mon Oct 3 19:01:53 2022 +0300
+
+    neozot; build summary;
+
+[33mcommit f4ff969ecffca6dc060c903260792a56b6e93e7b[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Mon Oct 3 19:01:24 2022 +0300
+
+    tfidf analysis notebook
+
+[33mcommit d5c07858661f18fd1214cffa06e90553c9fb3143[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 2 14:01:57 2022 +0300
+
+    Creators, nice printing
+
+[33mcommit 844a7724b4ac889b5e6f3c2e7f613b5b06c55a83[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 2 07:24:22 2022 +0300
+
+    gitignore updates
+
+[33mcommit a48f42a0ad846998fa4e0701bf6c4feb10921fb6[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 2 07:24:12 2022 +0300
+
+    test
+
+[33mcommit 2bb7a923da3a8aede323fcac68c7a0106c231db1[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 2 07:23:59 2022 +0300
+
+    added zoterodb initial
+
+[33mcommit 8205c36187fe4962d684e43969b6026946a05b42[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Sun Oct 2 07:21:37 2022 +0300
+
+    notebooks update
+
+[33mcommit 7ee9c426a7243963fe5e1f7f8b898b34458cc080[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Mon Sep 26 02:52:05 2022 +0300
+
+    gitignore
+
+[33mcommit 45a1acb318b7765fe54bc12847d142ca495b0437[m
+Author: v-i-s-h <get_vichu@yahoo.com>
+Date:   Mon Sep 26 02:51:52 2022 +0300
+
+    tables notebook
+
+[33mcommit 4299be7c4b08aece43f170dd5e8bca66677b0c70[m
+Author: Vishnu Raj <get_vichu@yahoo.com>
+Date:   Sun Sep 25 23:36:15 2022 +0300
+
+    Initial commit

@@ -24,7 +24,7 @@ class ZoteroDB:
         self._connect_db()
 
     def _connect_db(self):
-        db = os.path.join(self.db_dir, "zotero.sqlite")
+        db = os.path.join(os.path.expanduser(self.db_dir), "zotero.sqlite")
         if not os.path.exists(db):
             raise OSError("No database found at: {}".format(self.db_dir))
 
